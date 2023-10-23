@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Leraxa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I'm Leraxa. I'm currently doing my mandatory internship at  
+Soloplan GmbH as a Junior Developer. My main programming language is C#.  
+  
+I'm currently learning Unreal Engine 5 and expanding my skills in Blender.   
+Stay tuned!
 
-<!---
-Leraxa/Leraxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![dc285bb445f409ec53f59569efc0672b](https://github.com/Leraxa/Leraxa/assets/134810929/f4b65440-22da-4927-8cf9-0ba6d7d15abc)
+
+*Zaun will fight back!*
