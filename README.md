@@ -7,4 +7,4 @@ In my freetime, I like to play video games like League of Legends or Lethal comp
 
 ...and I like horses
 
-<img src="https://media1.tenor.com/m/hFZPT9vXz-wAAAAd/horse-funny-horse.gif" alt="🐴:" width="100"/>
+<img src="https://media1.tenor.com/m/hFZPT9vXz-wAAAAd/horse-funny-horse.gif" alt="🐴:" width="150"/>
